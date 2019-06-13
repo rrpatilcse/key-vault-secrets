@@ -1,0 +1,15 @@
+{
+  "name": "add-secrets",
+  "version": "1.0.0",
+  "description": "Add secrets to azure key vault",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adal-node": "^0.1.28",
+    "azure-keyvault": "^3.0.4"
+  }
+}
